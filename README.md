@@ -2,5 +2,5 @@
 I have created dashboard to find out meaningful insights on Hospital Emergency Room data
 <br>
 
+<img width="1792" height="878" alt="Hospital Emergency Room Dashboard" src="https://github.com/user-attachments/assets/5fb8fcab-daf2-4aac-b02d-e8bbf8b655a3" />
 
-<img width="1853" height="620" alt="Screenshot 2025-11-27 144543" src="https://github.com/user-attachments/assets/8107c681-0c71-46b4-9cc0-e91f46ffdac7" />
